@@ -1,0 +1,23 @@
+body {
+  background-color: hsl(0, 100%, 30%);
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+span {
+  padding: 10px;
+  font-size: 4em;
+}
+
+button {
+  font-size: 2em;
+  background: none;
+  border: none;
+}
+
+button.timing {
+  padding-top: 20px;
+}
