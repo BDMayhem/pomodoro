@@ -16,6 +16,7 @@ button {
   font-size: 2em;
   background: none;
   border: none;
+  font-family: serif;
 }
 
 button.timing {
